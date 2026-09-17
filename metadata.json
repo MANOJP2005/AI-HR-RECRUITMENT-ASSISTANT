@@ -1,0 +1,7 @@
+{
+  "name": "AI HR Recruitment Assistant",
+  "description": "Evidence-Based Candidate Screening & Human Review using grounded resume evidence and blind evaluation guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
